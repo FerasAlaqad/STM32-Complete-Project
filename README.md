@@ -10,7 +10,7 @@ I wrote STM32 codes by C and C++ in the Keil program. and wrote the desktop prog
 
 
 
-This are the equipments i have used: 
+There are the equipments i have used: 
 ▪ STM32F103C8 
 ▪ AT24C256 EEPROM 
 ▪ MPU6050 
