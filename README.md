@@ -24,7 +24,7 @@ Feel free to contact me anytime.
 Email: ferasdc18@gmail.com
 
 
-![image](https://user-images.githubusercontent.com/87244886/125473966-29117a7b-045c-4c0d-a085-49533c9f6144.png)
+![image](https://user-images.githubusercontent.com/87244886/125474300-edcae722-abba-486f-bc4f-3b7a488544af.png)
 
 Projede yapılanlar: Bu kısımda projeyi oluşturma sürecinde yapılan tüm işlemleri tek tek yazılacaktır;
 
