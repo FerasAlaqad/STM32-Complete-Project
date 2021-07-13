@@ -1,0 +1,10 @@
+C:\Users\feras\source\repos\SeriPortApp2\SeriPortApp2\bin\Debug\SeriPortApp2.exe.config
+C:\Users\feras\source\repos\SeriPortApp2\SeriPortApp2\bin\Debug\SeriPortApp2.exe
+C:\Users\feras\source\repos\SeriPortApp2\SeriPortApp2\bin\Debug\SeriPortApp2.pdb
+C:\Users\feras\source\repos\SeriPortApp2\SeriPortApp2\obj\Debug\SeriPortApp2.csproj.AssemblyReference.cache
+C:\Users\feras\source\repos\SeriPortApp2\SeriPortApp2\obj\Debug\SeriPortApp2.Form1.resources
+C:\Users\feras\source\repos\SeriPortApp2\SeriPortApp2\obj\Debug\SeriPortApp2.Properties.Resources.resources
+C:\Users\feras\source\repos\SeriPortApp2\SeriPortApp2\obj\Debug\SeriPortApp2.csproj.GenerateResource.cache
+C:\Users\feras\source\repos\SeriPortApp2\SeriPortApp2\obj\Debug\SeriPortApp2.csproj.CoreCompileInputs.cache
+C:\Users\feras\source\repos\SeriPortApp2\SeriPortApp2\obj\Debug\SeriPortApp2.exe
+C:\Users\feras\source\repos\SeriPortApp2\SeriPortApp2\obj\Debug\SeriPortApp2.pdb
