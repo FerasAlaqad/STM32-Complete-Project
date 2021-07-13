@@ -1,7 +1,7 @@
 # STM32 Complete Project
 
 
-In this project, I Established a connection between STM32 and computer by Serial Connection protocol, in the same time I used  C# to write a desktop program that can receive massages which it will be sent by STM32, by that desktop program I can send some command to STM32 and want from him to make it.
+In this project, I established a connection between STM32 and computer by Serial Connection protocol, in the same time I used  C# to write a desktop program that can receive massages which it will be sent by STM32, by that desktop program I can send some command to STM32 and want from him to make it.
 
 I wrote STM32 codes by C and C++ in the Keil program. and wrote the desktop program by C# in the Visual Studio program.
 
