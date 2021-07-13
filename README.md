@@ -6,11 +6,11 @@ In this project, I established a connection between STM32 and computer by Serial
 I wrote STM32 codes by C and C++ in the Keil program. and wrote the desktop program by C# in the Visual Studio program.
 
 ▪ To access STM32 code open this file: STM32-Complete-Project/project/MDK-ARM/prorject.uvprojx  (you must open it by Keil program)
-▪To access serial port program's code you have to use Visual Studio
+▪ To access serial port program's code you have to use Visual Studio
 
 
 
-This the equipments i have used: 
+This are the equipments i have used: 
 ▪ STM32F103C8 
 ▪ AT24C256 EEPROM 
 ▪ MPU6050 
